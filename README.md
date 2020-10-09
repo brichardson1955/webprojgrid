@@ -1,2 +1,2 @@
 # webprojgrid
-Web project utilizing flex grid
+Web project utilizing flex grid update
